@@ -1,0 +1,8 @@
+[1/6] Loading /home/claude/project/data/raw/animal-shelter-intakes-and-outcomes.csv
+[2/6] Measuring the raw data (before cleaning)
+[3/6] Cleaning
+[4/6] Validating cleaned data + quality gate
+      gate passed: row pass rate 100.00%
+[5/6] Saving cleaned data (raw file is untouched)
+[6/6] Summaries, figures and SQL
+Done. Wrote 17 files under data/cleaned and outputs/.

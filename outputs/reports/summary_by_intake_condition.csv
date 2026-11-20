@@ -1,0 +1,18 @@
+intake_condition,intakes,bad_outcome_rate
+ill severe,1307,0.777
+injured severe,2093,0.691
+behavior severe,70,0.557
+ill moderate,937,0.42
+injured moderate,1169,0.346
+under age/weight,6530,0.261
+ill mild,1178,0.221
+behavior moderate,126,0.19
+injured mild,1075,0.189
+i/i report,235,0.119
+behavior mild,69,0.101
+feral,282,0.096
+fractious,648,0.094
+aged,155,0.077
+normal,13547,0.048
+welfare seizures,70,0.029
+intake exam,1,0.0

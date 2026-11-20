@@ -1,0 +1,15 @@
+check,rows_failed,pct_failed,passed
+not_null:animal_id,0,0.0,True
+not_null:animal_type,0,0.0,True
+not_null:intake_date,0,0.0,True
+not_null:intake_type,0,0.0,True
+not_null:intake_condition,0,0.0,True
+unique:animal_id+intake_date,43,0.144,False
+pattern:animal_id,0,0.0,True
+allowed:animal_type,29787,100.0,False
+allowed:sex,29787,100.0,False
+allowed:intake_type,29787,100.0,False
+range:latitude,6,0.02,False
+range:longitude,7,0.024,False
+order:dob<=intake_date,149,0.5,False
+order:intake_date<=outcome_date,0,0.0,True

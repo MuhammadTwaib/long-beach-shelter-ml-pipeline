@@ -1,0 +1,51 @@
+animal_id,animal_name,animal_type,primary_color,secondary_color,sex,dob,intake_date,intake_condition,intake_type,intake_subtype,reason_for_intake,outcome_date,crossing,jurisdiction,outcome_type,outcome_subtype,latitude,longitude,outcome_is_dead,was_outcome_alive,name_given_by_shelter,has_name
+A712653,,dog,unknown,,unknown,2023-12-23,2023-12-31,under age/weight,owner surrender,otc,no home,2023-12-31,1000 BLK WEST BLVD LOS ANGELES CA 90019,out of area,duplicate,,34.0560553,-118.3308025,False,1,False,False
+A722021,,cat,unknown,,unknown,2024-05-27,2024-06-01,under age/weight,stray,otc,,2024-06-01,10000 BLK WALNUT STREET LOS ALAMITOS CA 90720,los alamitos,duplicate,,33.8085501,-118.0744627,False,1,False,False
+A593860,Charm,dog,tan,,neutered,2013-07-19,2019-07-25,normal,stray,field,,2019-07-25,"11600 JAMES ST, CERRITOS, CA 90703",cerritos,return to owner,fre rid hm,33.851454,-118.0859783,False,1,False,True
+A719506,,cat,flame point,,unknown,2024-04-03,2024-04-24,under age/weight,stray,otc,,2024-04-24,1300 BLK PACIFIC COAST HIGHWAY LONG BEACH CA 90806,long beach,duplicate,,33.7896322,-118.1750988,False,1,False,False
+A673825,Black Beauty,cat,unknown,,spayed,2019-08-29,2022-05-01,normal,"trap, neuter, return",,,2022-05-01,"1300 BLK WESLEY AVE, LONG BEACH, CA 90806",long beach,duplicate,,33.7946311,-118.1750875,False,1,True,True
+A651094,,cat,brown tabby,,female,,2023-04-20,injured severe,owner surrender,otc,cost,2023-04-20,1500 BLK CHESTNUT LB 90813,long beach,duplicate,,33.7844997,-118.1971031,False,1,False,False
+A704856,,cat,tan,,unknown,2023-07-23,2023-08-16,under age/weight,stray,otc,,2023-08-16,1600 BLK FASHION AVE LONG BEACH CA 90813,long beach,duplicate,,33.7873218,-118.2088176,False,1,False,False
+A690819,Gingersnap,cat,s-t point,,spayed,2021-12-21,2022-12-21,normal,stray,otc,,2023-02-01,"1600 ALAMITOS, LB CA 90813",long beach,adoption,web,33.787219,-118.176166,False,1,True,True
+A725013,Heineken,cat,gray tabby,,male,2024-06-14,2024-07-18,under age/weight,stray,otc,,2024-07-18,1800 BLK PINE AVE LONG BEACH CA 90807,long beach,duplicate,,33.7898836,-118.1920127,False,1,True,True
+A725014,Modelo,cat,gray tabby,,female,2024-06-14,2024-07-18,under age/weight,stray,otc,,2024-08-31,"1800 BLK PINE AVE, LONG BEACH 90806",long beach,transfer,spcala,33.7898836,-118.1920127,False,1,True,True
+A725011,Corona,cat,black,white,spayed,2024-06-14,2024-07-18,under age/weight,stray,otc,,2024-08-30,"1800 BLK PINE AVE, LONG BEACH 90806",long beach,rescue,littlelion,33.7898836,-118.1920127,False,1,False,True
+A725499,,cat,unknown,,unknown,2024-07-12,2024-07-25,under age/weight,stray,otc,,2024-07-25,1900 BLK CASPIAN AVE LONG BEACH CA 90810,long beach,duplicate,,33.7916879,-118.2121803,False,1,False,False
+A725011,Corona,cat,black,white,spayed,2024-06-14,2024-07-18,under age/weight,stray,otc,,2024-07-18,1800 BLK PINE AVE LONG BEACH CA 90807,long beach,duplicate,,33.7898836,-118.1920127,False,1,False,True
+A725014,Modelo,cat,gray tabby,,female,2024-06-14,2024-07-18,under age/weight,stray,otc,,2024-07-18,1800 BLK PINE AVE LONG BEACH CA 90807,long beach,duplicate,,33.7898836,-118.1920127,False,1,True,True
+A699612,,other,gray,,unknown,2023-03-27,2023-05-27,injured mild,wildlife,otc,,2023-05-27,200 BLK TIVOLI DR LB 90803,long beach,duplicate,,33.7576286,-118.1260424,False,1,False,False
+A556271,Brandy,dog,brown,tan,spayed,2014-11-15,2024-01-18,ill moderate,stray,otc,,2024-01-18,2200 BLK PASADENA AVE LONG BEACH CA 90806,long beach,duplicate,,33.7971131,-118.1871935,False,1,False,True
+A509230,Lucky,cat,black,white,male,2015-08-01,2018-08-01,normal,owner surrender,otc,owner died,2018-09-07,"2200 LOMINA AVE, LONG BEACH, CA 90815",long beach,euthanasia,beh modera,33.7963088,-118.1193809,True,0,False,True
+A696521,Huni,dog,gold,white,spayed,2019-04-11,2023-04-11,normal,stray,otc,,2023-04-22,23RD ST AND LOCUST ST,long beach,adoption,,33.7700504,-118.1937395,False,1,False,True
+A699579,,cat,unknown,,unknown,2023-04-11,2023-05-26,normal,stray,otc,,2023-05-26,300 BLK SHORELINE DR LB 90802,long beach,duplicate,,33.7639555,-118.1849016,False,1,False,False
+A696498,Bella,dog,tan,,female,2020-10-11,2023-04-10,normal,stray,field,,2023-04-22,"300 BLOCK 1ST ST, SEAL BEACH CA",seal beach,adoption,,33.7463568,-118.1109545,False,1,True,True
+A702132,,cat,gray tabby,,male,2023-06-11,2023-07-01,under age/weight,stray,otc,,2023-07-01,3000 BLK N STUDEBAKER ST LONG BEACH CA 90803,long beach,"trap, neuter, release",,33.810501,-118.0991267,False,1,False,False
+A608499,Alani,cat,orange tabby,,spayed,2016-05-27,2018-05-27,normal,stray,trap,,2018-06-21,"3400 BLK GUNDRY AVE, LONG BEACH, CA 90807",long beach,"shelter, neuter, return",straycatal,33.8189482,-118.174144,False,1,True,True
+A670669,Nate,cat,gray,,neutered,2021-02-14,2022-02-14,normal,owner surrender,field,owner prob,2022-04-08,"3300 BLK SANTA FE AVE, LONG BEACH, CA 90810",long beach,adoption,,33.8171037,-118.2154046,False,1,True,True
+A727315,,cat,orange tabby,white,unknown,2024-05-22,2024-08-22,normal,stray,aban field,,2024-08-22,"3800 BLK PACIFIC AVE, LB 90807",long beach,duplicate,,33.826934,-118.194247,False,1,False,False
+A699153,Stray 5,cat,black,,unknown,2023-05-14,2023-05-20,under age/weight,stray,otc,,2023-05-20,400 BLK ROSE AVE LB 90802,long beach,duplicate,,33.7717204,-118.1698399,False,1,False,True
+A448635,Dulce Caramelo,dog,gray,,female,2010-09-16,2023-02-18,ill mild,stray,otc,,2023-03-01,"400 BLK W. 10TH ST, LONG BEACH, CA 90813",long beach,return to owner,walkin,33.7789678,-118.1963571,False,1,False,True
+A719981,Tori,cat,brown tabby,,spayed,2024-04-11,2024-05-01,under age/weight,stray,otc,,2024-06-16,4000 BLK PACIFIC AVE LONG BEACH CA 90805,long beach,adoption,web,33.8297957,-118.1945212,False,1,True,True
+A699334,,cat,unknown,,unknown,,2023-05-24,normal,stray,otc,,2023-05-24,4100 BLK VIRGINIA RD LB 90807,long beach,duplicate,,33.832391,-118.1911909,False,1,False,False
+A680660,Puddles,cat,black,,spayed,2022-05-22,2023-01-13,normal,return,adoption,owner prob,2023-01-13,4500 N BELLFLOWER BLVD. LB CA 90808,long beach,duplicate,,33.8397259,-118.125082,False,1,True,True
+A645386,Mambo,dog,white,,male,2019-07-11,2020-07-11,injured severe,owner surrender,field,injured,2020-07-12,"5500 BLK ORANGE AVE, LONG BEACH, CA 90805",long beach,rescue,other resc,33.85615629999999,-118.176933,False,1,False,True
+A599572,O'Malley,cat,orange tabby,,neutered,2014-11-02,2017-11-02,normal,stray,otc,,2017-12-20,"5600 BLK LONG BEACH BLVD, LONG BEACH, CA 90805",long beach,transfer,spcala,33.8575521,-118.1976991,False,1,True,True
+A731045,,dog,brown,white,female,,2024-10-23,normal,stray,otc,,2024-10-23,5800 BLK E CONANT STREET LONG BEACH CA 90808,long beach,duplicate,,33.8249862,-118.1190766,False,1,False,False
+A718911,,cat,unknown,,unknown,2024-03-21,2024-04-17,under age/weight,stray,otc,,2024-04-17,6200 BLK DE FOREST AVE LONG BEACH CA 90805,long beach,duplicate,,33.8659722,-118.1926371,False,1,False,False
+A699833,,cat,unknown,,unknown,2023-05-25,2023-05-31,under age/weight,stray,otc,,2023-06-01,6800 BLK MURIEL AVE LONG BEACH 90805,long beach,duplicate,,33.8777154,-118.2005778,False,1,False,False
+A699721,Steve 2,cat,tan,,unknown,2021-05-30,2023-05-30,normal,"trap, neuter, return",,,2023-06-01,"7700 BLK E SPRING ST., LB, CA 90815",long beach,duplicate,,33.8096122,-118.0826161,False,1,False,True
+A619146,,reptile,brown,green,unknown,2017-12-22,2018-12-22,normal,wildlife,otc,,2018-12-31,"7700 BLK E SPRING ST, LONG BEACH, CA 90815",long beach,rescue,,33.8096122,-118.0826161,False,1,False,False
+A699720,Steve 1,cat,tan,,unknown,2021-05-30,2023-05-30,normal,"trap, neuter, return",,,2023-06-01,"7700 BLK E SPRING ST., LB, CA 90815",long beach,duplicate,,33.8096122,-118.0826161,False,1,False,True
+A718113,Lala,dog,white,,female,2014-04-05,2024-04-05,normal,stray,otc,,2024-04-05,"7700 BLK E. SPRING ST, LONG BEACH 90815",long beach,,,33.8096122,-118.0826161,False,1,True,True
+A699955,,cat,orange,white,male,2023-05-02,2023-06-02,ill mild,stray,otc,,2023-06-03,7700TH BLK OF E SPRING ST,long beach,duplicate,,33.7700504,-118.1937395,False,1,False,False
+A673825,Black Beauty,cat,unknown,,spayed,2019-08-29,2022-05-01,normal,"trap, neuter, return",,,2023-07-17,"1300 BLK WESLEY AVE, LONG BEACH, CA 90806",long beach,adoption,walkin,33.7946311,-118.1750875,False,1,True,True
+A699378,,cat,gray,,unknown,2023-04-25,2023-05-25,normal,stray,otc,,2023-05-25,13000 BLK CAROLYN ST CER 90703,cerritos,duplicate,,33.8724958,-118.0532335,False,1,False,False
+A705151,,cat,black,,unknown,2023-08-06,2023-08-19,under age/weight,stray,otc,,2023-08-23,2200 BLK S LOCUST STREET LONG BEACH CA 90806,long beach,duplicate,,33.8195,-118.1907888,False,1,False,False
+A669901,Linden9,cat,brown tabby,,spayed,2021-01-31,2022-01-30,normal,"trap, neuter, return",,,2022-02-01,"2300 BLK LINDEN AVE, LONG BEACH CA 90806",long beach,"trap, neuter, release",,33.7989861,-118.1852385,False,1,True,True
+A698950,,cat,black,,unknown,,2023-05-17,under age/weight,stray,otc,,2023-06-01,2900 BLK MAINE AVE LB 90806,long beach,duplicate,,33.8099869,-118.1999679,False,1,False,False
+A724338,,cat,unknown,,unknown,2024-07-08,2024-07-10,under age/weight,stray,otc,,2024-07-10,300 BLK E ELEANOR LANE LONG BEACH CA 90805,long beach,duplicate,,33.8779381,-118.1967749,False,1,False,False
+A699578,,cat,unknown,,unknown,2023-04-11,2023-05-26,normal,stray,otc,,2023-05-26,300 BLK SHORELINE DR LB 90802,long beach,duplicate,,33.7639555,-118.1849016,False,1,False,False
+A721257,Schnapps,cat,gray tabby,white,neutered,2024-03-24,2024-05-21,normal,return,,move,2024-06-22,"3100 BLOCK E ARTESIA BLVD, LONG BEACH CA",long beach,adoption,web,33.8745209,-118.1561696,False,1,True,True
+A720085,,cat,unknown,,unknown,2024-03-26,2024-05-02,under age/weight,stray,otc,,2024-05-02,400 BLK E SOUTH STREET LONG BEACH CA 90805,long beach,duplicate,,33.8600524,-118.1884085,False,1,False,False
+A673825,Black Beauty,cat,unknown,,spayed,2019-08-29,2022-05-01,normal,"trap, neuter, return",,,2022-05-01,"6400 BLK ATLANTIC AVE, LONG BEACH, CA 90805",long beach,duplicate,,33.8708354,-118.1846106,False,1,True,True
+A704095,,cat,black,,unknown,2023-07-17,2023-08-02,under age/weight,stray,otc,,2023-08-02,9000 BLK LOUISE STREET LONG BEACH CA 90706,long beach,duplicate,,33.9017706,-118.1418387,False,1,False,False

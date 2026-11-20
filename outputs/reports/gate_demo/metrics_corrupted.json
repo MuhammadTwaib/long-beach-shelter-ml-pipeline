@@ -1,0 +1,35 @@
+{
+  "run_at_utc": "2026-11-20T15:19:26+00:00",
+  "input_file": "data/corrupted/shelter_corrupted.csv",
+  "status": "failed",
+  "threshold": 0.95,
+  "rows_raw": 29787,
+  "rows_clean": 29539,
+  "duplicates_removed": 248,
+  "rows_rejected_pct": 0.833,
+  "values_fixed": {
+    "dob_invalid_blanked": 149,
+    "coords_outside_socal_blanked": 8
+  },
+  "parse_failures": {
+    "dob": 0,
+    "intake_date": 0,
+    "outcome_date": 0,
+    "latitude": 0,
+    "longitude": 0
+  },
+  "rows_without_usable_label": 243,
+  "overall_missing_pct_before": 10.117,
+  "overall_missing_pct_after": 10.149,
+  "validation_before": {
+    "row_pass_rate": 0.0,
+    "checks_passed": 5,
+    "checks_total": 14
+  },
+  "validation_after": {
+    "row_pass_rate": 0.9061,
+    "checks_passed": 12,
+    "checks_total": 15,
+    "critical_failures": []
+  }
+}

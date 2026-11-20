@@ -1,0 +1,7 @@
+[1/6] Loading data/corrupted/shelter_corrupted.csv
+[2/6] Measuring the raw data (before cleaning)
+[3/6] Cleaning
+[4/6] Validating cleaned data + quality gate
+
+QUALITY GATE FAILED: row pass rate 90.61% (threshold 95%); critical: none; worst checks: [{'check': 'allowed:animal_type', 'rows_failed': 993}, {'check': 'order:intake_date<=outcome_date', 'rows_failed': 991}, {'check': 'pattern:animal_id', 'rows_failed': 790}, {'check': 'not_null:intake_date', 'rows_failed': 0}, {'check': 'not_null:intake_type', 'rows_failed': 0}]
+Metrics written to outputs/reports/gate_demo/metrics_corrupted.json. Nothing else was saved.
