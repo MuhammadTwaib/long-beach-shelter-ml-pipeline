@@ -1,0 +1,31 @@
+animal_id,animal_type,age_at_intake_years,sex,intake_condition,intake_type,jurisdiction,outcome_type,outcome_subtype,proba,error
+A722113,dog,4.0,male,normal,welfare seized,cerritos,euthanasia,beh severe,0.0378875463159779,false negative
+A706735,cat,0.39,spayed,normal,return,out of area,euthanasia,ill severe,0.04395183182428835,false negative
+A730514,dog,0.5,male,normal,stray,long beach,euthanasia,at vet,0.05621267530372686,false negative
+A729987,dog,0.84,neutered,normal,stray,long beach,euthanasia,beh severe,0.059098119278133666,false negative
+A728509,dog,0.75,female,normal,stray,long beach,euthanasia,at vet,0.05985596360919999,false negative
+A719579,dog,1.0,female,normal,stray,long beach,euthanasia,beh severe,0.06652104985781641,false negative
+A715705,dog,1.15,male,normal,stray,long beach,euthanasia,beh severe,0.07106170590054643,false negative
+A731837,dog,1.0,female,normal,stray,long beach,euthanasia,ill severe,0.07362485921538334,false negative
+A678173,dog,4.99,male,normal,stray,long beach,euthanasia,beh severe,0.08495423787921086,false negative
+A713158,dog,0.67,male,normal,quarantine,long beach,euthanasia,beh severe,0.09112185983888918,false negative
+A670824,dog,0.67,female,normal,quarantine,long beach,euthanasia,beh severe,0.09565720339472746,false negative
+A721603,dog,3.0,spayed,normal,stray,cerritos,euthanasia,beh severe,0.09796208048794972,false negative
+A721612,dog,7.0,female,normal,stray,long beach,euthanasia,at vet,0.09976290916062514,false negative
+A722587,dog,3.0,male,normal,stray,long beach,euthanasia,aggressive,0.10416350830286655,false negative
+A728003,dog,4.0,neutered,normal,stray,long beach,euthanasia,beh severe,0.11063287851098681,false negative
+A713758,wild,0.0,unknown,under age/weight,wildlife,long beach,transport,other sanc,0.9799428544877854,false positive
+A728589,cat,,unknown,ill severe,stray,long beach,return to owner,fre rid hm,0.9592658158111957,false positive
+A732900,other,,unknown,ill severe,wildlife,long beach,transfer,lbah,0.9510325653245562,false positive
+A718545,wild,0.16,unknown,ill severe,wildlife,long beach,transfer,lbah,0.9420172708586143,false positive
+A724627,other,1.0,unknown,ill severe,wildlife,long beach,transfer,lbah,0.9357648886334459,false positive
+A720551,other,0.5,unknown,ill severe,wildlife,long beach,transfer,lbah,0.9334410469465462,false positive
+A718831,wild,1.0,unknown,injured severe,wildlife,long beach,rescue,other sanc,0.9305181036660294,false positive
+A719034,wild,1.0,unknown,ill moderate,wildlife,long beach,transport,other resc,0.9240843885574626,false positive
+A720856,cat,9.0,neutered,ill severe,stray,los alamitos,community cat,,0.9234339057073485,false positive
+A733728,other,,unknown,injured severe,wildlife,long beach,transfer,wetlands,0.92205723840466,false positive
+A731049,other,,unknown,injured severe,wildlife,long beach,transfer,lbah,0.9205377396926301,false positive
+A727284,cat,5.0,neutered,ill severe,stray,long beach,community cat,,0.9191522103336996,false positive
+A727478,other,1.0,unknown,injured severe,wildlife,los alamitos,transfer,lbah,0.917803829977547,false positive
+A727251,cat,4.0,neutered,injured severe,stray,long beach,community cat,friendly,0.9169390896876323,false positive
+A722269,cat,5.0,male,ill severe,stray,long beach,community cat,friendly,0.9150629669915539,false positive

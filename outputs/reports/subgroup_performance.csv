@@ -1,0 +1,28 @@
+group_by,group,n,positive_rate,pr_auc,roc_auc,f1,recall,precision
+animal_type,cat,2043,0.204,0.738,0.891,0.677,0.764,0.607
+animal_type,dog,1334,0.091,0.408,0.833,0.389,0.306,0.536
+animal_type,bird,277,0.249,0.466,0.708,0.475,0.478,0.471
+animal_type,wild,179,0.536,0.879,0.877,0.73,1.0,0.575
+animal_type,other,138,0.667,0.921,0.851,0.839,0.935,0.761
+animal_type,rabbit,87,0.149,0.863,0.956,0.741,0.769,0.714
+animal_type,reptile,38,0.105,0.646,0.963,0.8,1.0,0.667
+intake_type,stray,3031,0.162,0.69,0.876,0.646,0.701,0.599
+intake_type,wildlife,573,0.443,0.819,0.831,0.711,0.846,0.613
+intake_type,owner surrender,273,0.161,0.659,0.886,0.582,0.523,0.657
+intake_type,welfare seized,135,0.03,0.575,0.844,0.667,0.5,1.0
+intake_type,return,64,0.031,0.516,0.508,0.0,0.0,0.0
+intake_type,quarantine,32,0.5,0.677,0.641,0.0,0.0,0.0
+age_group,baby (<6m),1732,0.143,0.623,0.854,0.588,0.664,0.527
+age_group,adult (2-8y),867,0.215,0.758,0.896,0.675,0.704,0.649
+age_group,young (6m-2y),760,0.166,0.736,0.904,0.667,0.714,0.625
+age_group,unknown,485,0.381,0.768,0.831,0.695,0.784,0.625
+age_group,senior (8y+),265,0.257,0.827,0.902,0.769,0.809,0.733
+intake_condition,normal,1459,0.032,0.079,0.694,0.0,0.0,0.0
+intake_condition,under age/weight,1219,0.145,0.546,0.785,0.516,0.582,0.464
+intake_condition,injured severe,276,0.721,0.926,0.818,0.841,0.995,0.728
+intake_condition,injured moderate,232,0.353,0.599,0.702,0.553,0.573,0.534
+intake_condition,ill mild,217,0.152,0.414,0.772,0.444,0.364,0.571
+intake_condition,ill moderate,207,0.42,0.583,0.662,0.614,0.805,0.496
+intake_condition,injured mild,197,0.142,0.297,0.722,0.267,0.286,0.25
+intake_condition,ill severe,183,0.776,0.9,0.733,0.874,1.0,0.776
+intake_condition,i/i report,64,0.094,0.269,0.717,0.0,0.0,0.0

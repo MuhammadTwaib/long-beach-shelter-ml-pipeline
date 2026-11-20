@@ -1,0 +1,8 @@
+model,cv_pr_auc,cv_roc_auc,cv_f1,cv_recall,cv_precision,val_pr_auc,val_roc_auc,val_f1,val_recall,val_precision
+Baseline: Dummy (prior),0.217 ± 0.038,0.500 ± 0.000,0.000 ± 0.000,0.000 ± 0.000,0.000 ± 0.000,0.208,0.5,0.0,0.0,0.0
+Logistic Regression,0.676 ± 0.041,0.865 ± 0.019,0.589 ± 0.048,0.823 ± 0.047,0.465 ± 0.070,0.678,0.857,0.572,0.764,0.457
+Random Forest,0.693 ± 0.037,0.871 ± 0.020,0.623 ± 0.034,0.804 ± 0.049,0.514 ± 0.057,0.694,0.87,0.614,0.772,0.51
+Hist Gradient Boosting,0.688 ± 0.040,0.867 ± 0.027,0.610 ± 0.036,0.780 ± 0.084,0.511 ± 0.068,0.694,0.871,0.605,0.772,0.498
+Hist Gradient Boosting (tuned),0.700 (best of grid),,,,,0.701,0.872,0.595,0.777,0.482
+LEAK CHECK - HGB + has_name (not used),,,,,,0.775,0.902,0.681,0.797,0.595
+LEAK CHECK - HGB + is_altered (not used),,,,,,0.755,0.91,0.659,0.829,0.547

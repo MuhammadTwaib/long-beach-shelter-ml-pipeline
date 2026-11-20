@@ -1,0 +1,106 @@
+animal_id,animal_type,primary_color,secondary_color,sex,dob,intake_date,intake_condition,intake_type,intake_subtype,reason_for_intake,jurisdiction,latitude,longitude
+A734321,dog,cream,,spayed,2007-12-15,2024-12-15,aged,owner surrender,otc,,long beach,33.758137,-118.142634
+A734333,dog,tan,,spayed,2023-06-15,2024-12-15,normal,stray,field,,long beach,33.7684834,-118.1933559
+A734318,other,gray,,unknown,2023-12-15,2024-12-15,ill severe,wildlife,field,,cerritos,33.8491868,-118.079311
+A734319,dog,brown,white,neutered,2024-06-15,2024-12-15,injured mild,stray,otc,,long beach,33.8681028,-118.1739691
+A734329,dog,white,brown,male,2021-12-15,2024-12-15,normal,stray,field,,los alamitos,33.8026527,-118.0574508
+A734326,dog,brown,tan,male,2018-12-15,2024-12-15,injured mild,stray,otc,,long beach,33.7634114,-118.1965657
+A733064,dog,brown brindle,white,neutered,2023-11-22,2024-12-15,normal,return,adoption,other pet,long beach,33.7807911,-118.156773
+A703605,dog,black,,neutered,2013-06-15,2024-12-15,ill moderate,owner surrender,otc,cost,long beach,33.7823318,-118.1566333
+A734114,dog,tricolor,,spayed,2024-03-11,2024-12-15,normal,stray,otc,,long beach,33.8640647,-118.1766294
+A734341,cat,white,,male,2016-12-16,2024-12-16,injured moderate,stray,field,,long beach,33.8782069,-118.1859731
+A734360,wild,black,white,male,2022-12-17,2024-12-17,injured mild,wildlife,field,,long beach,33.7869595,-118.184432
+A734352,cat,black,white,spayed,2023-12-17,2024-12-17,normal,stray,aban field,,long beach,33.8741538,-118.1675703
+A734423,other,brown,tan,unknown,,2024-12-18,normal,owner surrender,otc,,signal hill,33.7936219,-118.1672929
+A734416,other,brown,tan,unknown,,2024-12-18,normal,owner surrender,otc,,signal hill,33.7936219,-118.1672929
+A734418,other,brown,tan,unknown,,2024-12-18,normal,owner surrender,otc,,signal hill,33.7936219,-118.1672929
+A734422,other,brown,tan,unknown,,2024-12-18,normal,owner surrender,otc,,signal hill,33.7936219,-118.1672929
+A734431,other,white,,unknown,,2024-12-18,normal,owner surrender,otc,,signal hill,33.7936219,-118.1672929
+A734412,other,brown,tan,unknown,,2024-12-18,normal,owner surrender,otc,,signal hill,33.7936219,-118.1672929
+A734421,other,brown,tan,unknown,,2024-12-18,normal,owner surrender,otc,,signal hill,33.7936219,-118.1672929
+A734427,other,brown,tan,unknown,,2024-12-18,normal,owner surrender,otc,,signal hill,33.7936219,-118.1672929
+A734417,other,brown,tan,unknown,,2024-12-18,normal,owner surrender,otc,,signal hill,33.7936219,-118.1672929
+A734426,other,brown,tan,unknown,,2024-12-18,normal,owner surrender,otc,,signal hill,33.7936219,-118.1672929
+A734411,rabbit,gray,,male,2021-09-01,2024-12-18,normal,stray,otc,,long beach,33.7608883,-118.1508369
+A734444,other,black,gray,unknown,,2024-12-18,ill severe,wildlife,field,,long beach,33.7675691,-118.1824327
+A734449,other,gray,,unknown,2023-12-18,2024-12-18,injured severe,wildlife,field,,cerritos,33.8724552,-118.0595907
+A734415,other,brown,tan,unknown,,2024-12-18,normal,owner surrender,otc,,signal hill,33.7936219,-118.1672929
+A734425,other,brown,tan,unknown,,2024-12-18,normal,owner surrender,otc,,signal hill,33.7936219,-118.1672929
+A734429,other,brown,tan,unknown,,2024-12-18,normal,owner surrender,otc,,signal hill,33.7936219,-118.1672929
+A734413,other,brown,tan,unknown,,2024-12-18,normal,owner surrender,otc,,signal hill,33.7936219,-118.1672929
+A734424,other,brown,tan,unknown,,2024-12-18,normal,owner surrender,otc,,signal hill,33.7936219,-118.1672929
+A734414,other,brown,tan,unknown,,2024-12-18,normal,owner surrender,otc,,signal hill,33.7936219,-118.1672929
+A734420,other,brown,tan,unknown,,2024-12-18,normal,owner surrender,otc,,signal hill,33.7936219,-118.1672929
+A734488,dog,white,black,neutered,2024-03-19,2024-12-19,normal,stray,otc,,long beach,33.8630894,-118.2020459
+A734455,bird,white,gray,unknown,2023-12-19,2024-12-19,ill moderate,wildlife,field,,long beach,33.8140785,-118.2208864
+A734471,dog,black,,female,2024-08-19,2024-12-19,injured moderate,owner surrender,otc,cost,long beach,33.7748278,-118.1718205
+A734485,dog,black,white,neutered,2024-04-19,2024-12-19,normal,stray,otc,,long beach,33.8018654,-118.0866525
+A734512,cat,brown tabby,,neutered,2021-12-20,2024-12-20,injured mild,stray,otc,,long beach,33.7873055,-118.1683993
+A734499,other,brown,,unknown,,2024-12-20,injured moderate,wildlife,field,,long beach,33.8273115,-118.1032216
+A734396,dog,tan,black,neutered,2024-07-20,2024-12-20,normal,stray,otc,,long beach,33.8040804,-118.1869639
+A734514,cat,gray tabby,white,female,2024-11-10,2024-12-20,under age/weight,stray,otc,,signal hill,33.8026524,-118.1817472
+A734515,cat,gray tabby,white,female,2024-11-10,2024-12-20,under age/weight,stray,otc,,signal hill,33.8026524,-118.1817472
+A734504,bird,gray,white,unknown,,2024-12-20,injured mild,wildlife,field,,long beach,33.763015,-118.1681549
+A734546,cat,black,white,female,2016-12-21,2024-12-21,ill mild,stray,otc,,long beach,33.7815662,-118.1971447
+A734550,wild,gray,,unknown,,2024-12-21,ill mild,wildlife,field,,long beach,33.8106897,-118.1121045
+A734540,dog,white,,female,2024-06-21,2024-12-21,ill moderate,stray,field,,long beach,33.84221280000001,-118.1911276
+A734558,dog,red,,male,2020-12-21,2024-12-21,normal,stray,field,,long beach,33.8578271,-118.1771093
+A734557,bird,brown,white,unknown,2023-12-21,2024-12-21,injured moderate,wildlife,field,,long beach,33.7739592,-118.2393836
+A734588,cat,brown tabby,gray,unknown,2019-12-22,2024-12-22,ill mild,stray,field,,long beach,33.7916968,-118.2006218
+A734605,dog,black,brown,female,2024-09-23,2024-12-22,normal,stray,field,,long beach,33.8732529,-118.1967672
+A734607,dog,black,brown,male,2024-09-23,2024-12-22,normal,stray,field,,long beach,33.8732529,-118.1967672
+A734609,dog,black,brown,female,2024-09-23,2024-12-22,normal,stray,field,,long beach,33.8732529,-118.1967672
+A734603,dog,black,brown,male,2024-09-23,2024-12-22,normal,stray,field,,long beach,33.8732529,-118.1967672
+A734606,dog,black,brown,female,2024-09-23,2024-12-22,normal,stray,field,,long beach,33.8732529,-118.1967672
+A734585,cat,tricolor,,male,2022-12-22,2024-12-22,injured mild,stray,otc,,long beach,33.8761059,-118.2030412
+A734600,dog,black,brown,female,,2024-12-22,injured severe,stray,field,,long beach,33.7814368,-118.1888431
+A733119,cat,brown tabby,,spayed,2024-02-24,2024-12-22,normal,owner surrender,otc,,long beach,33.7836399,-118.1842845
+A734579,cat,white,orange,male,2023-12-22,2024-12-22,normal,stray,otc,,long beach,33.796248,-118.1469114
+A734604,dog,black,brown,male,2024-09-23,2024-12-22,normal,stray,field,,long beach,33.8732529,-118.1967672
+A734602,dog,black,brown,female,2024-09-23,2024-12-22,normal,stray,field,,long beach,33.8732529,-118.1967672
+A734608,dog,black,brown,female,2024-09-23,2024-12-22,normal,stray,field,,long beach,33.8732529,-118.1967672
+A734573,cat,calico,,female,,2024-12-23,normal,stray,otc,,long beach,33.7650383,-118.1772804
+A734643,dog,brown,,spayed,2014-12-23,2024-12-23,aged,stray,field,,long beach,33.8782523,-118.175242
+A734567,cat,gray,,unknown,,2024-12-23,normal,stray,otc,,long beach,33.7863926,-118.1761732
+A734574,cat,calico dilute,,female,,2024-12-23,normal,stray,otc,,long beach,33.8321969,-118.1707634
+A734576,cat,gray tabby,white,unknown,,2024-12-23,normal,stray,otc,,long beach,33.8321969,-118.1707634
+A734577,cat,orange tabby,,unknown,,2024-12-23,normal,stray,otc,,long beach,33.8321969,-118.1707634
+A734575,cat,orange tabby,,unknown,,2024-12-23,normal,stray,otc,,long beach,33.8321969,-118.1707634
+A734644,cat,gray,white,unknown,2021-12-23,2024-12-23,injured severe,stray,field,,signal hill,33.7935737,-118.1652089
+A734568,cat,white,orange,unknown,,2024-12-23,normal,stray,otc,,signal hill,33.796248,-118.1469114
+A734565,cat,calico,,unknown,,2024-12-23,normal,stray,otc,,long beach,33.796248,-118.1469114
+A734569,cat,brown tabby,,unknown,,2024-12-23,normal,stray,otc,,long beach,33.797132,-118.1948201
+A734563,cat,orange tabby,,unknown,,2024-12-23,normal,stray,otc,,long beach,33.796248,-118.1469114
+A734571,cat,gray tabby,,male,,2024-12-23,normal,stray,otc,,long beach,33.797132,-118.1948201
+A734578,cat,black,white,unknown,,2024-12-23,normal,stray,otc,,long beach,33.779147,-118.2042475
+A734572,cat,orange tabby,,unknown,,2024-12-23,normal,stray,otc,,long beach,33.7839359,-118.1980926
+A734566,cat,black,brown,unknown,,2024-12-23,normal,stray,otc,,long beach,33.7863926,-118.1761732
+A734564,cat,white,wheat,unknown,,2024-12-23,normal,stray,otc,,long beach,33.796248,-118.1469114
+A734646,cat,white,brown,female,2024-09-24,2024-12-24,ill severe,stray,field,,long beach,33.7954518,-118.1836918
+A734713,dog,black,,female,2016-12-26,2024-12-26,injured severe,stray,otc,,signal hill,33.7971793,-118.16435
+A734749,cat,black,white,male,2024-08-26,2024-12-26,ill severe,stray,field,,long beach,33.7645166,-118.1908882
+A734740,cat,black,,male,2024-12-17,2024-12-26,under age/weight,stray,otc,,long beach,33.8656919,-118.1771764
+A734741,cat,blue,,female,2024-12-17,2024-12-26,under age/weight,stray,otc,,long beach,33.8656919,-118.1771764
+A734725,wild,black,white,unknown,2023-12-26,2024-12-26,ill severe,wildlife,field,,long beach,33.8098294,-118.0844223
+A734728,cat,gray,,female,2021-12-26,2024-12-26,ill severe,stray,field,,long beach,33.7700504,-118.1937395
+A734115,dog,cream,,neutered,2023-12-11,2024-12-26,i/i report,owner surrender,otc,bites,long beach,33.766083,-118.1875466
+A734737,cat,gray,,female,2023-12-26,2024-12-26,normal,stray,otc,,long beach,33.8656919,-118.1771764
+A734738,cat,blue,,female,2024-12-17,2024-12-26,under age/weight,stray,otc,,long beach,33.8656919,-118.1771764
+A734761,cat,black,white,male,2024-11-27,2024-12-27,under age/weight,stray,otc,,long beach,33.8009166,-118.197847
+A734800,dog,white,,female,2023-12-27,2024-12-27,ill mild,confiscate,investigat,,long beach,33.77656899999999,-118.182406
+A734798,dog,black,,female,2017-12-27,2024-12-27,ill mild,confiscate,investigat,,long beach,33.77656899999999,-118.182406
+A505693,dog,tan,white,male,2013-02-26,2024-12-27,aged,stray,otc,,long beach,33.7874845,-118.1730638
+A646411,cat,black,white,neutered,2019-07-30,2024-12-27,ill severe,stray,otc,,long beach,33.845041,-118.1652262
+A734829,bird,red,brown,unknown,,2024-12-28,injured mild,wildlife,field,,long beach,33.8072275,-118.144543
+A734847,other,gray,,unknown,2022-12-28,2024-12-28,injured severe,wildlife,field,,long beach,33.7913822,-118.1360107
+A734818,wild,gray,,unknown,2021-12-28,2024-12-28,injured moderate,wildlife,field,,long beach,33.78816279999999,-118.1773224
+A734891,cat,black,,male,2022-12-30,2024-12-30,injured moderate,stray,field,,cerritos,33.8483009,-118.0922532
+A734946,cat,gray tabby,white,unknown,2021-12-30,2024-12-30,injured severe,stray,field,,long beach,33.7764917,-118.1798444
+A734944,bird,brown,white,unknown,,2024-12-30,injured moderate,wildlife,field,,la county,33.8242094,-118.2489325
+A734889,cat,orange tabby,white,female,2016-12-30,2024-12-30,ill mild,stray,field,,long beach,33.8642147,-118.1715422
+A734890,dog,black,white,female,2021-12-30,2024-12-30,normal,stray,otc,,long beach,33.8107274,-118.1266142
+A734993,other,gray,,unknown,2023-12-31,2024-12-31,injured severe,wildlife,field,,long beach,33.7807849,-118.1415547
+A734971,wild,gray,white,unknown,,2024-12-31,injured mild,wildlife,field,,long beach,33.7699111,-118.1578594
+A734974,wild,gray,black,unknown,,2024-12-31,injured severe,wildlife,field,,long beach,33.8154542,-118.2130137
+A734973,wild,black,white,unknown,2023-12-31,2024-12-31,injured severe,wildlife,field,,long beach,33.8388679,-118.1887129
+A734991,dog,white,tan,female,,2024-12-31,injured severe,stray,field,,long beach,33.8189223,-118.1970162

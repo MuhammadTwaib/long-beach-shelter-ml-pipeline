@@ -1,0 +1,5 @@
+animal_id,animal_type,primary_color,secondary_color,sex,dob,intake_date,intake_condition,intake_type,intake_subtype,reason_for_intake,jurisdiction,latitude,longitude,risk_probability,high_risk_flag
+NEW001,dog,black,white,male,2023-05-01,2025-01-10,normal,stray,field,,long beach,33.8,-118.18,0.0546,0
+NEW002,cat,orange tabby,,female,,2025-01-10,ill severe,stray,otc,,long beach,33.85,-118.19,0.9247,1
+NEW003,wild,brown,,unknown,,2025-01-11,injured severe,wildlife,field,,signal hill,33.8,-118.16,0.8986,1
+NEW004,cat,purple polka dot,,female,2024-12-01,2025-01-12,under age/weight,owner surrender,otc,too many,cerritos,33.86,-118.06,0.2046,0

@@ -1,0 +1,7 @@
+{
+  "rows": 105,
+  "positive_rate": 0.219,
+  "pr_auc": 0.754,
+  "recall": 0.87,
+  "precision": 0.741
+}

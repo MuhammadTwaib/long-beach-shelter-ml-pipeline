@@ -1,0 +1,22 @@
+{
+  "chosen_model": "Hist Gradient Boosting (tuned)",
+  "threshold": 0.6569,
+  "best_grid_params": {
+    "l2_regularization": 1.0,
+    "learning_rate": 0.05,
+    "max_leaf_nodes": 31
+  },
+  "test": {
+    "pr_auc": 0.7207,
+    "roc_auc": 0.8803,
+    "f1": 0.6588,
+    "recall": 0.7204,
+    "precision": 0.6068
+  },
+  "split_sizes": {
+    "train": 21302,
+    "validation": 3976,
+    "test": 4109,
+    "unseen": 105
+  }
+}
