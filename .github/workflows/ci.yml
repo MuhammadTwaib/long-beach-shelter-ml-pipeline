@@ -1,0 +1,57 @@
+# Name: Muhammad Twaib | Roll No: TRN-2026-000353 | Date: 2026-11-20
+# CI: lint + tests on every pull request (and on pushes to main, so main stays green).
+name: CI
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+  workflow_dispatch: {}          # allow a manual run from the Actions tab
+
+concurrency:                     # a new push cancels the old run of the same PR
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read                 # least privilege: CI only needs to read the code
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip             # re-use downloaded packages between runs
+      - run: pip install ruff==0.16.9
+      - run: ruff check src tests exploration
+
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    needs: lint                  # do not spend minutes on tests if lint already failed
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Verify raw data checksum
+        run: python -m src.download_data
+      - name: Unit tests
+        run: pytest -q
+      - name: Smoke test - Part A pipeline runs end to end and passes the quality gate
+        run: python -m src.pipeline_a
+      - name: Smoke test - quality gate must FAIL on corrupted data
+        run: |
+          python -m src.make_corrupted
+          if python -m src.pipeline_a --input data/corrupted/shelter_corrupted.csv \
+               --metrics-out /tmp/metrics_corrupted.json; then
+            echo "Gate should have failed!"; exit 1
+          fi
+      - name: Smoke test - saved model scores new rows
+        run: python -m src.predict data/new/handmade_intakes.csv --output /tmp/preds.csv

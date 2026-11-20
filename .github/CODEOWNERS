@@ -1,0 +1,9 @@
+# Who must review which files. Replace the handles with real GitHub usernames.
+# Last matching rule wins.
+*                          @muhammad-twaib
+/src/cleaning.py           @muhammad-twaib @data-quality-reviewer
+/src/validation.py         @muhammad-twaib @data-quality-reviewer
+/src/features.py           @muhammad-twaib @ml-reviewer
+/src/train.py              @muhammad-twaib @ml-reviewer
+/.github/                  @muhammad-twaib @course-ta
+/data/raw/                 @course-ta
