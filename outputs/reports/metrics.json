@@ -1,6 +1,6 @@
 {
-  "run_at_utc": "2026-11-20T15:19:28+00:00",
-  "input_file": "/home/claude/project/data/raw/animal-shelter-intakes-and-outcomes.csv",
+  "run_at_utc": "2026-11-20T15:31:30+00:00",
+  "input_file": "data/raw/animal-shelter-intakes-and-outcomes.csv",
   "status": "passed",
   "threshold": 0.95,
   "rows_raw": 29787,
